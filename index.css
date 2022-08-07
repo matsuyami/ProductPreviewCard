@@ -24,9 +24,9 @@
   --fs-header: 2rem;
   --br: 0.5rem;
 
+  --spacer-sm: calc(var(--spacer) * 0.75);
   --spacer: 1rem;
   --spacer-md: calc(var(--spacer) * 2);
-
 }
 
 body {
@@ -44,6 +44,7 @@ body {
 h1 {
   font-size: var(--fs-header);  
 }
+
 
 h1, h2 {
   font-family: var(--ff-heading); 
@@ -157,6 +158,6 @@ footer a {
 
   .pricing {
     margin-top: var(--spacer-md);
-    margin-bottom: var(--spacer-md);
+    margin-bottom: var(--spacer-sm);
   }
 }
