@@ -5,7 +5,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 A beautiful product preview card. It's made with html and css.
 
-I know I'm not the best at css, so if there are any suggestions feel free to message me and let me know (:)
+I know I'm not the best at css, so if there are any suggestions feel free to message me and let me know (:
 
 ### Screenshot
 
