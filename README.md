@@ -13,8 +13,8 @@ A beautiful product preview card. It's made with html and css.
 
 ### Links
 
-- Solution URL: [click here](https://your-solution-url.com](https://github.com/matsuyami/ProductPreviewCard/)
-- Live Site URL: [click here](https://your-live-site-url.com](https://matsuyami.github.io/ProductPreviewCard/)
+- Solution URL: [click here](https://github.com/matsuyami/ProductPreviewCard/)
+- Live Site URL: [click here](https://matsuyami.github.io/ProductPreviewCard/)
 
 ### Built with
 
