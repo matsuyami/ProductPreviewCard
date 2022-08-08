@@ -5,8 +5,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 A beautiful product preview card. It's made with html and css.
 
-I know I'm not the best at css, so if there are any suggestions feel free to message me and let me know (:
-
 ### Screenshot
 
 ![](./screenshot.jpg)
@@ -15,8 +13,8 @@ I know I'm not the best at css, so if there are any suggestions feel free to mes
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/matsuyami/ProductPreviewCard))
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://matsuyami.github.io/ProductPreviewCard/)
 
 ### Built with
 
@@ -33,4 +31,4 @@ I know I'm not the best at css, so if there are any suggestions feel free to mes
 
 ## Suggestions 
 
-I'm always open to suggestions so be sure to message me if you think I should've done something a different way (:)
+I'm always open to suggestions so be sure to message me if you think I should've done something a different way (:
