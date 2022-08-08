@@ -10,8 +10,7 @@ I know I'm not the best at css, so if there are any suggestions feel free to mes
 ### Screenshot
 
 ![](./screenshot.jpg)
-
-Screen Shot 2022-08-06 at 10.05.54 PM<img width="752" alt="image" src="https://user-images.githubusercontent.com/102407386/183336123-cecc08d2-ae71-489c-809a-925c184452fd.png">
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/102407386/183336123-cecc08d2-ae71-489c-809a-925c184452fd.png">
 
 
 ### Links
